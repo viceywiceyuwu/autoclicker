@@ -1,2 +1,2 @@
 # autoclicker
-autoclicker with randomization
+autoclicker with randomization/humanisation 
