@@ -4,7 +4,7 @@ import time
 import os
 
 flag = True
-drop_chance = ["ok", "nigga u tried", "nigga u tried", "nigga u tried", "nigga u tried", "nigga u tried", "nigga u tried", "nigga u tried", "nigga u triied", "boris has big penis yes"]
+drop_chance = ["ok", "no", "no", "no", "no", "no", "no", "no", "no", "no", "no", "no", "no", "no", "no", "no", "no"]
 
 os.system("cls")
 from os import system
